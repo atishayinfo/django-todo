@@ -1,4 +1,4 @@
-# Use the official Python image from the Docker Hub
+# Use the official Python image from the Docker Hub by Atishay
 FROM python:3.9-slim
 
 # Set environment variables
