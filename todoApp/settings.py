@@ -28,7 +28,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['13.60.170.169', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['13.60.170.169', 'localhost', '127.0.0.1','16.170.228.131']
 
 
 # Application definition
